@@ -9,7 +9,7 @@
     video{width:100%;max-height:90vh}
     .card{margin-bottom:20px}
     input,button{width:100%;padding:10px;margin:5px 0}
-  </style>
+  </style>script.js
 </head>
 <body>
 
